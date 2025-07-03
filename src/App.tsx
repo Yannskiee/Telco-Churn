@@ -562,6 +562,7 @@ function App() {
             <div>
               <div className="flex items-center mb-4">
                 <div className="w-8 h-8 bg-blue-600 rounded-full flex items-center justify-center mr-2">
+                  
                   <BarChart3 className="w-5 h-5 text-white" />
                 </div>
                 <span className="text-xl font-bold">ChurnPredict</span>
